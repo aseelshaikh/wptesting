@@ -20,13 +20,13 @@ define( 'WP_CACHE', false );
  */
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'testdb' );
+define( 'DB_NAME', 'webapp-preview-database' );
 /** MySQL database username */
-define( 'DB_USER', 'munim' );
+define( 'DB_USER', 'webapp-preview-server-admin' );
 /** MySQL database password */
-define( 'DB_PASSWORD', 'gaditek1' );
+define( 'DB_PASSWORD', 'ArpatecH157' );
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'webapp-preview-server.database.windows.net:1433' );
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
 /** The Database Collate type. Don't change this if in doubt. */
